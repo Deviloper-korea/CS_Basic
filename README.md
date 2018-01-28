@@ -14,6 +14,5 @@
 * [Data](https://github.com/Deviloper-korea/CS_Basic/wiki/데이터,-데이터의-종류)
 * [Sync & Async](https://github.com/Deviloper-korea/CS_Basic/wiki/동기-vs-비동기)
 * [Memory](https://github.com/Deviloper-korea/CS_Basic/wiki/메모리(Memory))
-* [자료구조 개념](https://github.com/Deviloper-korea/CS_Basic/wiki/자료구조-개념)
 
 ---
