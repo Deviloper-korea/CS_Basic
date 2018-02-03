@@ -29,4 +29,4 @@
 * [네이티브 앱, 웹앱, 하이브리드 앱](https://github.com/Deviloper-korea/CS_Basic/wiki/네이티브-앱-vs-웹앱-vs-하이브리드앱)
 * [동기화방법](https://github.com/Deviloper-korea/CS_Basic/wiki/동기화-방법(critical-section,-mutex,-semaphore))
 
-—--
+---
