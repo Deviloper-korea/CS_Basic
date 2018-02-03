@@ -16,3 +16,17 @@
 * [Memory](https://github.com/Deviloper-korea/CS_Basic/wiki/메모리(Memory))
 
 ---
+
+### 2주차
+
+* [BFS와 DFS](https://github.com/Deviloper-korea/CS_Basic/wiki/BFS와-DFS)
+* [CPU Scheduling](https://github.com/Deviloper-korea/CS_Basic/wiki/CPU-Scheduling)
+* [Network 구성](https://github.com/Deviloper-korea/CS_Basic/wiki/network-구성)
+* [RestFul](https://github.com/Deviloper-korea/CS_Basic/wiki/RestFul이란%3F)
+* [Search Algorithm](https://github.com/Deviloper-korea/CS_Basic/wiki/Search-Algorithm)
+* [UX? UI? HCI?](https://github.com/Deviloper-korea/CS_Basic/wiki/UX-%3F-UI%3F-HCI%3F)
+* [교착상태](https://github.com/Deviloper-korea/CS_Basic/wiki/교착상태)
+* [네이티브 앱, 웹앱, 하이브리드 앱](https://github.com/Deviloper-korea/CS_Basic/wiki/네이티브-앱-vs-웹앱-vs-하이브리드앱)
+* [동기화방법](https://github.com/Deviloper-korea/CS_Basic/wiki/동기화-방법(critical-section,-mutex,-semaphore))
+
+—--
